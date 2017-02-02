@@ -11,8 +11,8 @@ Current Position Description
 __University Name__
 Degree Awarded
 
-`1995 - 1997`
-__University Name__
+`2012 - 2016`
+__Northwestern Polytechnical University__
 Degree Awarded 
 
 ## Awards
