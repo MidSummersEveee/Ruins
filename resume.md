@@ -12,7 +12,7 @@ __University Name__
 Degree Awarded
 
 `2012 - 2016`
-__Northwestern Polytechnical University__
+__Northwestern Polytechnical University__  
 Degree Awarded 
 
 ## Awards
