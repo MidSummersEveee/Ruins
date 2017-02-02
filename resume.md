@@ -13,7 +13,7 @@ Degree Awarded
 
 `2012 - 2016`
 __Northwestern Polytechnical University__  
-&nbsp&nbsp&nbsp&nbspDegree Awarded 
+Degree Awarded 
 
 ## Awards
 
