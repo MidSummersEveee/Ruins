@@ -9,7 +9,7 @@ logo:             # filename of a logo image that has been placed into your imag
 # Remove the hashtag symbol and then enter the username, without the @ symbol or quotation marks. Only the bio is in quotation marks.
 owner:
   name: Zhihan Jiang
-  avatar: bio-photo.jpg
+  avatar: icon.jpg
   bio: "A brief description of yourself."
   email: zhihan_jiang@gwumail.gwu.edu
   twitter: #username
