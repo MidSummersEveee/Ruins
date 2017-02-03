@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is This?
+title: Interesting Facts about Variables' Intialization in Java
 excerpt: "Thinking in Java一书谈到了一个有趣的事实"
 modified: 2/2/2017, 21:31:35
 tags: [intro, beginner, jekyll, tutorial]
