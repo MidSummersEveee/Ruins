@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is This?
-excerpt: "What is a static website generator, and why should I care?"
+excerpt: "Thinking in Java一书谈到了一个有趣的事实"
 modified: 2/2/2017, 21:31:35
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
