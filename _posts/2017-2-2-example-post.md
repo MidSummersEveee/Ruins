@@ -7,7 +7,7 @@ tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
 ---
-# Interesting Facts about Variables' Intialization in Java
+
 
 *Thinking in Java*一书谈到了一个有趣的事实，即，若我们有一个包含其他类对象作为成员变量的类，那么，这些变量的初始化，会在构造方法执行之前就被完成。
 
