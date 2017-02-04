@@ -8,6 +8,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Current Interests and Projects:
 
 - Public Opinion Collection and Submission System 
-- Lorem ipsum dolor sit amet
+- Symmetric Encryption
 - Lorem ipsum dolor sit amet
 - Lorem ipsum dolor sit amet
