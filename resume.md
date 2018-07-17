@@ -7,7 +7,8 @@ layout: resume
 `2016-2018`
 __The George Washington University__  
 M.S. in Computer Science
-<br>
+
+
 `2012-2016`
 __Northwestern Polytechnical University__  
 B.Eng. in Software Engineering
