@@ -1,4 +1,13 @@
-#Numpy Skill Stack - Covariance 协变性小记
+---
+layout: post
+title: Numpy Skill Stack - Covariance 协变性小记
+excerpt: "对协变性的概念，计算方法和含义的总结"
+modified: 01/07/2018, 21:14:5
+tags: [DataStructure]
+comments: true
+category: blog
+---
+
 ## 1.Meet Covariance
 
 什么是Covariance?
