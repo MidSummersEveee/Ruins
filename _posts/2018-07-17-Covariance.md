@@ -28,3 +28,15 @@ category: blog
 ## 3. Get Covariance
 两种covariance各有解方法：
 <img src="https://MidSummerseveee.github.io/images/formula.png" width="380" height="100" />
+
+## 4. Covariacne Matirx
+下一个介绍的概念是协变矩阵,这个概念很简单。
+根据上文我们已经很清楚的了解到，协变性是用来描述两个变量的关系的，如果我们有多个变量，此时我们自然希望研究期中每个pair，看看它们互相都都有什么联系。因此，我们有了协变矩阵的概念。
+
+设有协变矩阵M，则M(1,2)的值就是为变量V1和V2之间的covariance，M(5,6)则是变量V5和V6的covariance。
+这样一来容易知道：
+- 协变矩阵的规模和变量的数目一致
+- 协变矩阵中，对角线以外的元素沿着对象线互相对称。
+
+那么对角线上的元素M(i,i)有什么意义呢？其实它代表了变量Vi相对于自己的协变性，这里总是取Vi的方差(Variance)。
+需要注意的是Excel中的covariance是Population covariance，而其他工具中的结果基本是Sample covariance,分母有着N与n-1的差别，需要转换的话可以乘以转换系数N/n-1
